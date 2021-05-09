@@ -5,7 +5,7 @@ Projeto construído em Python, Flask e Django. Aqui temos um pequeno blog, ainda
 ### Tecnologias usadas nesse projeto:
 
 ![Badge](https://img.shields.io/static/v1?label=python&message=language&color=blue&style=for-the-badge&logo=PYTHON)
-![Badge](https://img.shields.io/static/v1?label=flask&message=framework&color=grey&style=for-the-badge&logo=FLASK)
+![Badge](https://img.shields.io/static/v1?label=flask&message=framework&color=black&style=for-the-badge&logo=FLASK)
 ![Badge](https://img.shields.io/static/v1?label=bootstrap&message=framework&color=purple&style=for-the-badge&logo=BOOTSTRAP)
 ![Badge](https://img.shields.io/static/v1?label=django&message=framework&color=green&style=for-the-badge&logo=DJANGO)
 
